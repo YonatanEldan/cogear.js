@@ -20,6 +20,9 @@
   "bin": {
     "cogear": "./bin/cogear.js"
   },
+  "scripts":{
+    "start": "cogear"
+  },
   "devDependencies": {
     "eslint": "^5.5.0",
     "eslint-config-airbnb-base": "^13.1.0",
